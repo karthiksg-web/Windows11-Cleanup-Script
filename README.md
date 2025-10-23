@@ -18,5 +18,5 @@ This PowerShell script automates junk removal and performance optimization for W
 
 ## A Step by Step Process pdf 
 - use pdf attached with this file
-- 
+
 ## any queries : projects.karthiksulakhe@gmail.com 
